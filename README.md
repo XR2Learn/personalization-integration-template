@@ -1,4 +1,4 @@
-# XR2Learn Unity App Example (Integration Personalization Enablers and Unity Applications)
+# XR2Learn Unity App Personalization Integration Template (Integration between Personalization Enablers and Unity Applications)
 
 This is an example app of how to communicate a Unity Application with Personalization Enablers.
 Personalization Enablers and Unity application to communicate by exchanging messages using Pub/Sub protocol.
